@@ -50,6 +50,7 @@ AtliQ’s customers span across industries and geographies, including:
 - **IT Service Providers:** Supporting managed IT services and hardware resale.
 - **Government Agencies:** Supplying secure and compliant hardware for public sector projects.
 - **End Users:** Individuals purchasing directly from online platforms or retail outlets.
+
 ## **📊 Dataset Overview**
 This dataset is designed by, combining **dimension tables** (static reference data) and **fact tables** (transactional and forecast data) to support decision-making across business operations.
 
@@ -111,6 +112,7 @@ Additional tables provide insights into costs, pricing, and adjustments:
 - Designed Executive dashboards that showcased essential metrics, including top customers, financial trends, and competitive insights.
 ## **AtliQ's Core Data Structure**
 
+![Screenshot (9)](https://github.com/user-attachments/assets/5fbecf49-a25b-4e49-acf7-0c86cbda08e7)
 
 ## **AtliQ's Dashboard**
 
