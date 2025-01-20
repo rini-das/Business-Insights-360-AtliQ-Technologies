@@ -150,4 +150,4 @@ The dashboard is organized into the following key sections:
 ## **Deliverables**
 
 The outcome of this analysis provided actionable insights into the AtliQ's market performance, identified key opportunities for growth, and highlighted areas requiring strategic focus. 
-It enabled improved inventory management, optimized operational strategies, and a deeper understanding of customer behavior trends. Additionally, the findings serve as a foundation for answering critical "why" questions, driving data-informed decisions, and fostering a proactive approach to market challenges and opportunities.
+It enabled improved inventory management, optimized operational strategies, and a deeper understanding of customer behavior trends. Additionally, the findings serve as a foundation for answering critical questions, driving data-informed decisions, and fostering a proactive approach to market challenges and opportunities.
